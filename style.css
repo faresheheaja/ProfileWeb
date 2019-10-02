@@ -1,7 +1,11 @@
+body {
+    background-color: #a8dee7;
+}
+
 table,
 tr,
 td {
-    background-color: LightGoldenRodYellow;
+    background-color: white;
     font-family: Verdana;
     color: black;
     border: 1px solid black;
@@ -24,10 +28,4 @@ td {
     right: 0;
     top: 100px;
     bottom: 0;
-}
-
-body {
-    background-image: url('images.jpg');
-    background-repeat: no-repeat;
-    background-size: 1400px auto;
 }
